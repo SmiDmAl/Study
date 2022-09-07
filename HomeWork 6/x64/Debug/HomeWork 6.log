@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\kendo\OneDrive\Рабочий стол\Study\HomeWork 6\main.cpp(14,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kendo\OneDrive\Рабочий стол\Study\HomeWork 6\main.cpp(15,73): warning C4305: 'argument': truncation from 'double' to 'float'
+  HomeWork 6.vcxproj -> C:\Users\kendo\OneDrive\Рабочий стол\Study\HomeWork 6\x64\Debug\HomeWork 6.exe
