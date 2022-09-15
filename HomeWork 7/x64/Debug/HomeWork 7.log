@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\kendo\OneDrive\Рабочий стол\Study\HomeWork 7\main.cpp(24,68): warning C4305: 'argument': truncation from '__int64' to 'int'
+C:\Users\kendo\OneDrive\Рабочий стол\Study\HomeWork 7\main.cpp(24,56): warning C4309: 'argument': truncation of constant value
+  HomeWork 7.vcxproj -> C:\Users\kendo\OneDrive\Рабочий стол\Study\HomeWork 7\x64\Debug\HomeWork 7.exe
