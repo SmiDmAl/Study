@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\kendo\OneDrive\Документы\VS\HomeWork 8\array.cpp(86,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kendo\OneDrive\Документы\VS\HomeWork 8\array.cpp(76): message : while compiling class template member function 'void Array<int>::remove(unsigned int)'
+C:\Users\kendo\OneDrive\Документы\VS\HomeWork 8\main.cpp(16): message : see reference to function template instantiation 'void Array<int>::remove(unsigned int)' being compiled
+C:\Users\kendo\OneDrive\Документы\VS\HomeWork 8\main.cpp(10): message : see reference to class template instantiation 'Array<int>' being compiled
+C:\Users\kendo\OneDrive\Документы\VS\HomeWork 8\array.cpp(90,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kendo\OneDrive\Документы\VS\HomeWork 8\array.cpp(107,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kendo\OneDrive\Документы\VS\HomeWork 8\array.cpp(101): message : while compiling class template member function 'Array<int> &Array<int>::operator =(Array<int> &)'
+C:\Users\kendo\OneDrive\Документы\VS\HomeWork 8\main.cpp(23): message : see reference to function template instantiation 'Array<int> &Array<int>::operator =(Array<int> &)' being compiled
+  HomeWork 8.vcxproj -> C:\Users\kendo\OneDrive\Документы\VS\HomeWork 8\x64\Debug\HomeWork 8.exe
